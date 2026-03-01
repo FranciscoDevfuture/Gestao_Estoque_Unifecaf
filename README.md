@@ -64,27 +64,13 @@ python main.py
 * **Francisco José Dos Santos** - *Desenvolvimento e Documentação* - UniFECAF
 
 ---
-Print da tela de Login
+Print das telas da Aplicação:
 <img width="901" height="403" alt="image" src="https://github.com/user-attachments/assets/5e81a897-8df2-4a11-909b-6937f39aad1d" />
-
-Print da tela principal perfil administrador
-
 <img width="890" height="457" alt="image" src="https://github.com/user-attachments/assets/a39ec8e2-a198-4369-98bd-efd0c8ba38f9" />
-Print da tela de adicionar novo usuario
-
 <img width="295" height="320" alt="image" src="https://github.com/user-attachments/assets/e1100727-ba7c-4dbb-be55-29781ab6096c" />
-
 <img width="939" height="229" alt="image" src="https://github.com/user-attachments/assets/d1492905-c272-429e-838f-5e1802fd45e9" />
-print de produtos cadastrados
-
 <img width="885" height="270" alt="image" src="https://github.com/user-attachments/assets/ad76d65f-1ec7-430c-99c5-34d5bb5700d5" />
-
-print de perfil usuario commum
-
 <img width="888" height="290" alt="image" src="https://github.com/user-attachments/assets/9797c39a-43a8-4c20-a8ce-97ddce75a9c7" />
-
-print da tela onde na cor avermelhada indicando que a quantidade do produto esta chegando ao fim, nesse caso o livro java para iniciantes havia 50 livros e o mínimo era 10.
-
 <img width="881" height="329" alt="image" src="https://github.com/user-attachments/assets/a3dfad49-141e-41ee-afcb-997425d68043" />
 
 
