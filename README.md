@@ -73,6 +73,12 @@ Print das telas da Aplicação:
 <img width="888" height="290" alt="image" src="https://github.com/user-attachments/assets/9797c39a-43a8-4c20-a8ce-97ddce75a9c7" />
 <img width="881" height="329" alt="image" src="https://github.com/user-attachments/assets/a3dfad49-141e-41ee-afcb-997425d68043" />
 
+---
+Fluxograma_modelo_conceitual
+<img width="648" height="647" alt="image" src="https://github.com/user-attachments/assets/af4250e9-7634-41b1-a90e-e9f3b29ecba5" />
+---
+Modelo Lógico
+<img width="886" height="584" alt="image" src="https://github.com/user-attachments/assets/9e53c160-09e1-4b10-a422-3fbf51ed6b36" />
 
 
 
