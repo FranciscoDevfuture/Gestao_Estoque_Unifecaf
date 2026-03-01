@@ -61,8 +61,7 @@ python main.py
 
 ## ✒️ Autor
 
-* **Seu Nome** - *Desenvolvimento e Documentação* - UniFECAF
+* **Francisco José Dos Santos** - *Desenvolvimento e Documentação* - UniFECAF
 
 ---
 
-### Gostaria que eu adicionasse alguma seção específica sobre o vídeo de apresentação ou o fluxograma?
