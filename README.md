@@ -80,6 +80,16 @@ Fluxograma_modelo_conceitual
 Modelo Lógico
 <img width="886" height="584" alt="image" src="https://github.com/user-attachments/assets/9e53c160-09e1-4b10-a422-3fbf51ed6b36" />
 
+Embora não fosse uma exigência do trabalho..;
+Fui um pouco mais além, procurei uma forma de transformar minha aplicação em executável que funciona em versões atuais do Windows
+Estou falando do PyInstaller que é uma ferramenta que converte scripts Python (.py) em programas executáveis independentes (.exe no Windows, binários no Linux/Mac), permitindo que funcionem em qualquer computador sem a necessidade de ter o Python ou bibliotecas instaladas. Ele empacota todo o código, dependências e o interpretador Python em um único arquivo, facilitando a distribuição de aplicações.
+
+---
+Método
+Instalação:
+1-pip install pyinstaller
+2- Gerar o Arquivo 
+abrir o terminal até a pasta do projeto .py e executar o comando "pyinstaller --noconsole --onefile nome_do_arquivo.py
 
 
 
